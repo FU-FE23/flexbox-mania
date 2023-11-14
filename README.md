@@ -11,7 +11,7 @@ Skiss hittar du [här][https://www.figma.com/file/zy3VW5pAiizLkBRnhtiuC3/JS-%2F-
 
 - Att det ser ut enligt mockup. Viss variation i färger etc är okej.
 - Att du använder dig av flexbox för layout
-- Vettiga namn på variabler etc på engelska.
+- Vettiga namn på era html attribut för att nå css etc på engelska.
 
 **Väl godkänt**
 
@@ -21,4 +21,4 @@ Skiss hittar du [här][https://www.figma.com/file/zy3VW5pAiizLkBRnhtiuC3/JS-%2F-
 
 ## Inlämning
 
-Inlämning sker senast _Fredag 17 nov 23.59_ via en länk till ditt githubrepo på Azomo.
+Inlämning sker senast _Datum kommer snart nov 23.59_ via en länk till ditt githubrepo på Azomo.
