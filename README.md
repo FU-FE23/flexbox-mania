@@ -3,7 +3,7 @@ En webbplats byggd med HTML5 & CSS3, fokus ligger i att lösa designen med flexb
 
 ## UI
 
-Skiss hittar du [här]([https://www.figma.com/file/zy3VW5pAiizLkBRnhtiuC3/JS-%2F-Solaris?type=design&mode=design&t=PjbrROQIRGIrPfsO-0](https://www.figma.com/file/IPOabgetjLDk4j1tR4pDLd/Component-Exercise?type=design&node-id=0%3A1&mode=design&t=ypJ8GKIJZeQeZliX-1)).
+Skiss hittar du [här][https://www.figma.com/file/zy3VW5pAiizLkBRnhtiuC3/JS-%2F-Solaris?type=design&mode=design&t=PjbrROQIRGIrPfsO-0](https://www.figma.com/file/IPOabgetjLDk4j1tR4pDLd/Component-Exercise?type=design&node-id=0%3A1&mode=design&t=ypJ8GKIJZeQeZliX-1)).
 
 ## Betygskriterier
 
