@@ -11,7 +11,7 @@ Skiss hittar du [här][https://www.figma.com/file/zy3VW5pAiizLkBRnhtiuC3/JS-%2F-
 
 - Att det ser ut enligt mockup. Viss variation i färger etc är okej.
 - Att du använder dig av flexbox för layout
-- Vettiga namn på era html attribut för att nå css etc på engelska.
+- Vettiga namn på era html attribut för att nå CSS etc på engelska.
 
 **Väl godkänt**
 
