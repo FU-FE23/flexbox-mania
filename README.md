@@ -21,4 +21,4 @@ Skiss hittar du [här][https://www.figma.com/file/zy3VW5pAiizLkBRnhtiuC3/JS-%2F-
 
 ## Inlämning
 
-Inlämning sker senast _17 nov 23.59_ via en länk till ditt githubrepo med namngivning på detta sätt: namn_klassår_projektnamn på Azomo.
+Inlämning sker senast _24 nov 23.59_ via en länk till ditt githubrepo med namngivning på detta sätt: namn_klassår_projektnamn på Azomo.
